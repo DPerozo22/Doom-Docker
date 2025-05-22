@@ -100,7 +100,7 @@ A continuación, se presentan los datos observados a partir de las capturas de p
 
 **Primera Prueba VM (Ejecutando Freedoom):**
 *(Imagen: `Primera Prueba VM.png`)*
-![Primera Prueba VM](rendimiento/VM/Primera_Prueba_VM.png)
+![Primera Prueba VM](Rendimiento/VM/Primera_Prueba_VM.png)
 
 * **CPU Core 0:** ~44.7%
 * **CPU Core 1:** ~71.0%
@@ -113,7 +113,7 @@ A continuación, se presentan los datos observados a partir de las capturas de p
 
 **Segunda Prueba VM (Ejecutando Freedoom):**
 *(Imagen: `Segunda Prueba VM.png`)*
-![Segunda Prueba VM](rendimiento/VM/Segunda_Prueba_VM.png)
+![Segunda Prueba VM](Rendimiento/VM/Segunda_Prueba_VM.png)
 
 * **CPU Core 0:** ~48.0%
 * **CPU Core 1:** ~40.7%
@@ -138,7 +138,7 @@ A continuación, se presentan los datos observados a partir de las capturas de p
 
 **Segunda Prueba Docker (Ejecutando Freedoom):**
 *(Imagen: `Segunda Prueba Docker.png`)*
-![Segunda Prueba Docker](rendimiento/Docker/Segunda_Prueba_Docker.png)
+![Segunda Prueba Docker](Rendimiento/Docker/Segunda_Prueba_Docker.png)
 
 * **CPU Usage:** ~101.9% (pico, puede superar el 100% si utiliza más de un núcleo de manera efectiva)
 * **Memory Usage:** ~64.25MB / 3.73GB
