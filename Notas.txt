@@ -1,0 +1,2 @@
+docker build -t doom-local .
+docker run -it --rm -v C:/Users/diego/Downloads/Doom-Docker:/app doom-local
